@@ -1,0 +1,5 @@
+*{margin: 0px;}
+
+::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}

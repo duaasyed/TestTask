@@ -1,0 +1,28 @@
+.task_input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  border-radius: 6px;
+}
+
+.input_field {
+  height: 40px;
+  width: 95%;
+  border-radius: 6px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.task__input__content {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 15px 0px 15px;
+}

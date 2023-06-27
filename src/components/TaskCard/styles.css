@@ -1,0 +1,27 @@
+.task__card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.task__card__content {
+  display: flex;
+  height: 60px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 25px 0px 25px;
+}
+
+.task__card__text__content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 90%;
+}
+
+.checkmark__icon {
+  display: flex;
+  margin-right: 20px;
+}
